@@ -5,4 +5,9 @@ Intermediate/
 Saved/
 Binaries/
 Build/
-Content/
+
+
+Content/StarterContent
+Content/ExternalContent
+
+enc_temp_folder/
